@@ -1,1 +1,1 @@
-# coursera-html-css-and-javascript-for-web-developers
+# Coursera - HTML, CSS, and Javascript for Web Developers
