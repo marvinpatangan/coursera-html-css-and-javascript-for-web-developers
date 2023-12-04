@@ -65,7 +65,11 @@ header h1 {
     border: 0;
 }
 
-.container .row section {
+.container {
+    width: 100%;
+}
+
+.container section {
     background-color: gray;
     padding: 1px 25px;
     text-align: justify;
